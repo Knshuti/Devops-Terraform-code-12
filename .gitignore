@@ -1,0 +1,8 @@
+# Ignore the .terraform directory (and its contents)
+*.terraform*
+
+# Ignore files ending with .tfstate
+*.tfstate*
+
+# Ignore files ending with .pem
+*.pem
